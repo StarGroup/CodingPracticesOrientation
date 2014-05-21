@@ -1,0 +1,4 @@
+Fork this GIT repository within GitHub.
+Then, create a basic HTML page, with what you perceive as the most critical DOM elements required for any webpage.
+Requirements for the HTML page: a) loading the jQuery library (1.x branch) from a CDN b) including an external CSS stylesheet that defines a color or font-setting on an element in your webpage. c) embed at least one image in your html page (perhaps a logo in what would be considered a header). d) your webpage should utilize at least 4 DOM elements/nodes within the
+tag.
