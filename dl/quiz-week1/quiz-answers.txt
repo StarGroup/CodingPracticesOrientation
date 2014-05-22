@@ -1,0 +1,13 @@
+1. What are some of the ways in which commenting can be used while coding?
+   Commenting is used to explain sections or parts of code to improve the readability
+   of a file preventing the need of others to decipher the code in its entirety. It
+   can also be used to clarify closing brackets in large, nested conditionals and loops.
+   Finally, it can be useful when debugging by commenting out certain parts of code to
+   determine issues.
+
+2. Before attempting to push file(s) with git, the add argument must first be used
+   to flag the files then the commit argument is used to finalize the push.
+
+3. To improve readability of PHP pages containing large amounts of text (such as disclaimers
+    and other long documents), the include function is used. This differs from the require/require_once
+    function in that the program will still execute without the file(s).

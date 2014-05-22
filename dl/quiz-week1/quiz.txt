@@ -1,0 +1,8 @@
+1. What are some of the ways in which commenting can be used while coding?
+
+2. Before attempting to push file(s) with git, the ____ argument must first be used
+   to flag the files then the _____ argument is used to finalize the push.
+
+3. To improve readability of PHP pages containing large amounts of text (such as disclaimers
+    and other long documents), the ________ function in php is used. This differs from the _______
+    function in that the program will still execute without the file(s).

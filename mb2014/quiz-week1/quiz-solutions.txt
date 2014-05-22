@@ -1,0 +1,5 @@
+Week 1 - Quiz 1 Solutions
+
+1. The input type is 'email'.
+2. PHP_SELF -- Or echo $_SERVER['PHP_SELF'];
+3. Delcare variables for each textbox/content that will be sanitized. Then initialize it to the filter_var($_POST['TEXTBOXID'] , FILTER_SANITIZE_INSERTTYPE), where 'TEXTBOXID' is replaced with the input's ID and the FILTER_SANITIZE_type is replaced by the type of content that is being sanitized. Example: FILTER_SANITIZE_STRING sanitizes strings from "text" input types, while FILTER_SANITIZE_EMAIL sanitizes "email" input types.

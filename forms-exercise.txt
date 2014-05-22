@@ -1,0 +1,18 @@
+Using the live http://beta.mx.datafeed.3eye.com version of the datafeed project,
+
+Open the site in Google Chrome with the inspector.
+
+Checkout the network tab and the different filters available.
+Then, go to the login page and note the "post" activity when you've finished logging in.
+Analyze the headers tab- in particular:
+a) Request headers
+b) Form Data
+c) Response headers
+
+
+1) What kinds of information can you obtain from each?
+
+2) Are forms that post truly secure?
+
+Then compare the post to a get request by clicking any link on the user dashboard to a survey.
+

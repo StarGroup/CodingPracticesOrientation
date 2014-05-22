@@ -1,0 +1,14 @@
+Third Assignment:
+
+Refork the GIT repo.
+Then create a subdirectory with your initials and the year (for example ah2014) 
+Within that folder, copy your files from the other two days into subfolders
+entitled task1 and task2 respectively. 
+Create a new folder, entitled quiz-week1.
+Please put together in a simple text fle a quiz of three questions regarding
+concepts you have learned so far this week.  The questions should be
+open-ended/fill-in-the-blanks.  Save two versions as quiz.txt and 
+quiz-solutions.txt (one with just the questions, one with both questions
+and answers). 
+Commit your files, then create a Pull Request on GitHub.
+

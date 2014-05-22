@@ -1,5 +1,3 @@
-Task 2:
-
 Guide to HTML Forms:
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
 
@@ -18,3 +16,4 @@ last name text field
 email address field
 
 Form action should post back to itself, php needs to sterilize/sanitize data and generate an email.
+
