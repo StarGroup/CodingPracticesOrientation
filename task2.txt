@@ -1,0 +1,20 @@
+Task 2:
+
+Guide to HTML Forms:
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
+
+
+PHP manual for $_POST & $_GET:
+http://www.php.net/manual/en/reserved.variables.get.php
+http://www.php.net/manual/en/reserved.variables.post.php
+
+
+Every form needs an action- this is the page that actually processes the data
+
+
+Form should include:
+first name text field
+last name text field
+email address field
+
+Form action should post back to itself, php needs to sterilize/sanitize data and generate an email.
