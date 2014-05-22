@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="styles.css"/>
+		<title> Coding Best Practices...Practice </title>
+	</head>
+	<body>
+		<div id="wrapper"> <!-- overall body wrapper -->
+			<div id="header"> <!-- header -->
+				<span class="left"> <a href="mailto:schiff.mi@gmail.com"> schiff.mi@gmail.com </a> </span>
+				<img id="header_image" class="center" src="hadouken_small.png" alt="ryu"/>
+				<span class="right"> 215.595.4265 </span>
+			</div> <!-- end header -->
+			
+			<div id="content"> <!-- body content -->
+				<h1> Coding Practices Orientation </h1>
+				<a id ="showHide" href="#"> Hide </a>
+				<p id="hideThis"> This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+					This is a test webpage. This is a test webpage. <br/>
+				</p>	
+			
+				<ul class="center list">
+					<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+					<li>Aliquam tincidunt mauris eu risus.</li>
+					<li>Vestibulum auctor dapibus neque.</li>
+					<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+					<li>Aliquam tincidunt mauris eu risus.</li>
+					<li>Vestibulum auctor dapibus neque.</li>
+					<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+					<li>Aliquam tincidunt mauris eu risus.</li>
+					<li>Vestibulum auctor dapibus neque.</li>
+					<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+					<li>Aliquam tincidunt mauris eu risus.</li>
+					<li>Vestibulum auctor dapibus neque.</li>
+					<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+					<li>Aliquam tincidunt mauris eu risus.</li>
+					<li>Vestibulum auctor dapibus neque.</li>
+				</ul>
+				
+			</div> <!-- end content -->
+			
+			<div id="footer"> <!-- footer -->
+				<span> Michael Schiff </span>
+			</div> <!-- end footer -->
+		</div> <!-- end wrapper -->
+		<script type="text/javascript">
+			
+			$(document).ready(function(){
+				$("#showHide").click(function(){
+					if($("#showHide").text() == "Hide"){
+						$("#hideThis").hide();
+						$("#showHide").text("Show");
+					}
+					else{
+						$("#hideThis").show();
+						$("#showHide").text("Hide");
+					}					
+				});
+				
+			});
+		</script>
+	</body>
+</html>

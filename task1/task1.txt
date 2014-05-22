@@ -1,0 +1,48 @@
+Linda, 
+I thought I'd pass always along some concerns and feedback from the team, now that we have a moment to come up for air and breathe again. Originally, I was hoping to give you our digital status report at the stratification the calendar year but held off when we learned about the various mergers underway.
+That said, I now wonder if things would have gone differently had we spoke our concerns then.  
+
+Staffing Levels/Overflow Assistance
+Last summer, our team had pushed for hiring a quality assurance person, but we were instructed to hold off as negotiations were in the works for acquiring another digital shop. That then fell through and we were left in limbo. 
+
+During the expedited production schedule for Saladworks, we reached out for additional help from our colleagues at M&M. We met with a few of Molly's team, but quickly came to realize a serious gap in experience level and workflows. Much of this gap may be attributed to the limited diversity in complex web builds and exposure to mostly basic Drupal tasks. 
+
+At the beginning of this calendar year, SLS came to recognize the need for such a position and was primed to push to fill the vacancy; However, it seems the filling of such a position was put on hold due to pending mergers. As a result, our team has been responsible for performing final auditing of its own work. Often, we aren't provided sufficient time to q/a projects and deliver optimal products. 
+
+While my job description might claim that I am tasked with writing User Acceptance Tests and functional specs, I have yet to truly be able to deliver on them because I am still a full-time coder in our small team. Efforts to recruit Thea Tomczyk into our team have been proven difficult because of the continued confusion over her actual full-time role. We'd like to train Traci Clark to contribute to more than just e-blasts, but again are often too busy implementing last-minute requirements and not factoring time for training.
+
+Now with the influx of new team members from both Vox and Lorel, we've come to find that the one technical/digital staffer from Vox very much falls into the same boat that I've been in the last two summers (alone on an island with no real backup support). Likewise, the developer for Lorel comes from a very different background than what we anticipated (systems administration and software applications support, not web development) and is also for the most part flying solo. Lorel's front-end developer/designer joins Star and Lorel with less than a few months of experience and still just getting her feet wet. 
+
+We've vetted out three interns for the summer who have actual hands-on experience and can be put to use assisting in our many projects this summer. As discussed last Thursday, I've extended our part-time rate of $15/hr to them and they have expressed desire to come on board once finals are through in the next two weeks. However as of Monday morning, Connie & Don were trying to get a final clarification from you as to the budget for them. I have yet to confirm how many hours they can work each week. I can assure you that their experience will be put to good use whether its for 18 hours a week or 40, but understand that the numbers have to be worked out. If we hesitate past the middle of this week, they might take offers elsewhere.
+
+Anyways, with all that said, the time for compartmentalizing "divisions" of the company has to end for our "digital" strategies to move forward. The time for real synegration is upon us. We need to unify under one common workflow and ideally, one umbrella.  This would allow us to work off each others' strengths and weaknesses, while learning from each other. More importantly, if all three of our digital teams (Star's, Vox's, Lorel's) are all shorthanded to begin with and struggling to get by, isn't the obvious answer to staff up and merge our resources? If our push into the life science arena is driven by our digital prowess, then I believe its time to stand behind that and build out our team to fill the minimum requirements we previously outlined:
+developers (for web)
+developers (for native apps)
+quality assurance person
+user interface/user experience strategists and designers
+content management strategists and/or editors
+
+
+
+Short-term strategy/actions:
+Commit to a budget to finalize bringing summer interns on board for digital development team
+Officially unify the development teams between Star/Vox/Lorel under one team reporting structure
+Finalize/determine what Thea's full-time role ought to be moving forward and compensate accordingly.
+Provide assistance (to our digital project managers to help provide consultation services to Vox, Calcium, and Lorel.
+
+Long-term Strategy/actions:
+Some of the developers on the m & m digital team clearly have interests in pursuing more challenging scopes of work but are limited from experiencing them because of the mere volume of email blast campaigns that they must support. In the long-term, I would very much like to propose an exchange program or even a flex schedule opportunity where my and my team members work a few days with us and our front end development and eblast people work a few days with them to be able to build familiarity with each others workflows and be able to fill in on each others teams to provide supplemental support.
+
+
+
+Your first task:
+
+Fork this GIT repository within GitHub.
+
+Then, create a basic HTML page, with what you perceive as the most critical DOM elements required for any webpage.
+
+Requirements for the HTML page:
+a) loading the jQuery library (1.x branch) from a CDN
+b) including an external CSS stylesheet that defines a color or font-setting on an element in your webpage.
+c) embed at least one image in your html page (perhaps a logo in what would be considered a header).
+d) your webpage should utilize at least 4 DOM elements/nodes within the <body> tag.

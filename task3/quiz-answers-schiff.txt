@@ -1,0 +1,17 @@
+Quiz Answers - Michael Schiff:
+
+1. <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+2. POST and GET are two means of transferring data from a client to the server. POST data is transferred in the
+	HTTP header, while GET is transferred in plain text attached to the URL. As GET variables can easily be seen and 
+	manipulated by the user, GET is less secure than POST.
+	
+3. PHP Mail Function:boolean mail(to, subject, message, headers (optional))
+		Params: 
+			to: Address to which to send mail
+			subject: E-mail subject
+			message: Message body
+			headers: additional optional headers (bcc, cc, reply-to)
+		Returns:
+			boolean - true if mail function parameters were accepted for delivery, false otherwise (***does not
+				indicate a successful send***)
