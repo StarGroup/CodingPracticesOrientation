@@ -1,0 +1,7 @@
+Quiz Questions - Michael Schiff:
+
+1. How does one load jQuery from a content distribution network (CDN)?
+
+2. What are the differences between POST and GET? Which is more secure?
+
+3. What are the parameters and return type for the PHP mail() function? What does the return value indicate?
