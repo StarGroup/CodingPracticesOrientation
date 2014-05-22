@@ -1,0 +1,6 @@
+Week 1 - Quiz 1
+
+1. What is the HTML5 input type that is used for email syntax validation?
+2. _______ is the the form action that causes the form to submit to itself.
+3. How do you sanitize your form inputs in PHP?
+

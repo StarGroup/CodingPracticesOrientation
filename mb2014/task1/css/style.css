@@ -1,0 +1,25 @@
+body {
+	background-color: #636363;
+}
+
+p {
+	color: #fff;
+	font-family: Arial;
+	font-size: 14 px;
+}
+
+strong {
+	color: #effd58;
+}
+
+i {
+	color: #a5f710;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 18 px;
+	font-family: Helvetica;
+	color: #ffb88f;
+
+}
