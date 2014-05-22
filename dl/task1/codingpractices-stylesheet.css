@@ -1,0 +1,38 @@
+*
+{
+	background-color: #CC0000;
+}
+
+div
+{
+	position:relative;
+}
+#header
+{
+ 	height: 175px;
+ 	width: 100%;	
+ 	position:absolute;
+ 	top: 0;
+ 	background-color:;
+}
+
+img
+{
+	vertical-align: middle;
+}
+
+#footer
+{
+	height: 200px;
+	width:100%;
+	position:absolute;
+	bottom: 0;
+}
+
+#crop
+{
+	height: 300	px;
+	width: 900px;
+	overflow: hidden;
+}
+
